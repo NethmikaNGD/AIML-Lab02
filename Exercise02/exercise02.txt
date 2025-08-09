@@ -1,1 +1,16 @@
 
+Exercise 2 
+1. 21 
+4. 
+GLM-4.5 
+Prompt: - what is ai? explain simply for a 5-year-old child 
+
+Response: -  
+AI is like a smart robot friend that can learn things and help us. Just like how you learn to recognize your toys or your favorite cartoon characters, AI can learn to recognize pictures, sounds, and words. 
+Imagine if your teddy bear could talk to you, answer your questions, and play games with you - that's a little bit like what AI does! AI is in some phones, tablets, and even in toys that can listen and talk back to you. 
+AI doesn't have a brain like we do, but it can learn to do helpful things like showing you videos of kittens when you ask, or helping you count your toys. It's like a helper that lives inside machines! 
+
+GROK 
+Prompt: - what is ai? explain simply for a 5-year-old child 
+Response: -  
+AI is like a super smart computer that can learn and think a little bit like a person. Imagine a toy that can look at pictures, understand words, or even play games with you by figuring things out on its own. It’s like a brainy helper that uses math and patterns to solve problems! 
